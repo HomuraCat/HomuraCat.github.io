@@ -1882,7 +1882,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c7ff94;
+  background: #b4b583;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -3205,11 +3205,11 @@ ul.breadcrumb li+li:last-child {
   }
 }
 body {
-  background: url("https://source.unsplash.com/random/1600x900?wallpapers");
+  background: url("/images/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 50% 50%;
+  background-position: 30% 70%;
 }
 .main-inner {
   background: #fff;
