@@ -104,7 +104,7 @@
 <meta property="og:site_name" content="quhengyi11">
 <meta property="og:description" content="a folklore in the Mathematical Olympiad">
 <meta property="og:locale" content="zh-CN">
-<meta property="og:updated_time" content="2020-07-15T04:49:57.098Z">
+<meta property="og:updated_time" content="2020-07-25T14:02:21.041Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="LTE定理">
 <meta name="twitter:description" content="a folklore in the Mathematical Olympiad">
@@ -421,7 +421,7 @@
                 
                   <span class="post-meta-item-text">更新于</span>
                 
-                <time title="修改时间：2020-07-15 12:49:57" itemprop="dateModified" datetime="2020-07-15T12:49:57+08:00">2020-07-15</time>
+                <time title="修改时间：2020-07-25 22:02:21" itemprop="dateModified" datetime="2020-07-25T22:02:21+08:00">2020-07-25</time>
               
             
           </span>
@@ -497,16 +497,16 @@
 <p>下面写出证明</p>
 <p>对于$(1)$式，我们首先有</p>
 <p>$$\begin{array}{}v_p(x^n - y^n) &amp;= v_p((x-y)(x^{n-1} + x^{n-2}y + \cdots y^{n - 1}))\ &amp;= v_p(x-y) + v_p(x^{n-1} + x^{n-2}y + \cdots y^{n - 1})\end{array} $$</p>
-<p>当$p \nmid n$时，显然$x^{n-1} + x^{n-2}y + \cdots y^{n - 1} \equiv  nx^{n-1}\quad (mod;p)$</p>
+<p>当$p \nmid n$时，显然$x^{n-1} + x^{n-2}y + \cdots y^{n - 1} \equiv  nx^{n-1}\quad (mod ; p)$</p>
 <p>因此$v_p(x^{n-1} + x^{n-2}y + \cdots y^{n - 1}) = v_p(n)+v_p(x^{n - 1} )= 0\quad (4)$</p>
 <p>当$p | n$时，先证明$v_p(x^p-y^p) = v_p(x-y) + 1 \quad (5)$</p>
 <p>即证明$v_p(x^{p - 1} + x^{p - 2} y + \cdots y^{p - 1}) = 1$</p>
 <p>由$x^{p-1} + x^{p-2}y + \cdots y^{p - 1} \equiv  px^{p-1}\equiv 0\quad(mod;p)$，显然$v_p(x^{p - 1} + x^{p - 2} y + \cdots y^{p - 1}) \geq 1$</p>
 <p>下证$v_p(x^{p - 1} + x^{p - 2} y + \cdots y^{p - 1}) = 2$不成立，即证$p^2 \nmid (x^{p - 1} + x^{p - 2} y + \cdots y^{p - 1})$</p>
 <p>因为$p|x-y$，不妨假设$x &lt; y,y = kp+x,t \in [1, p-1],t  \in Z $</p>
-<p>$$\begin{array}{}x^{p - 1 - t} y^t &amp; \equiv  x^{p-1-t}(kp+x)^t&amp;\quad (mod; p^2)\ &amp; \equiv x^{p-1} + tkpx^{p-2} &amp;\quad (mod; p^2)\end{array} $$</p>
+<p>$$\begin{array}{}x^{p - 1 - t} y^t &amp; \equiv  x^{p-1-t}(kp+x)^t&amp;\quad (mod; p^2)\\ &amp; \equiv x^{p-1} + tkpx^{p-2} &amp;\quad (mod; p^2)\end{array} $$</p>
 <p>所以</p>
-<p>$$\begin{array}{}(x^{p - 1} + x^{p - 2} y + \cdots y^{p - 1}) &amp;\equiv px^{p-1} + (1+\cdots + (p - 1))kpx^{p-2} &amp;\quad (mod; p^2)\ &amp;\equiv px^{p-1} + \frac{p-1}2 kp^2x^{p-2}    &amp;\quad (mod; p^2)\quad (6)\ &amp;\equiv px^{p - 1}&amp;\quad (mod; p^2)\end{array}$$</p>
+<p>$$\begin{array}{}(x^{p - 1} + x^{p - 2} y + \cdots y^{p - 1}) &amp;\equiv px^{p-1} + (1+\cdots + (p - 1))kpx^{p-2} &amp;\quad (mod; p^2)\ &amp;\equiv px^{p-1} + \frac{p-1}2 kp^2x^{p-2} (6)   &amp;\quad (mod; p^2)\quad\ &amp;\equiv px^{p - 1}&amp;\quad (mod; p^2)\end{array}$$</p>
 <p>因为$p\nmid x$，所以$p^2 \nmid (x^{p - 1} + x^{p - 2} y + \cdots y^{p - 1})$，所以$v_p(x^{p - 1} + x^{p - 2} y + \cdots y^{p - 1}) = 1$</p>
 <p>由$(5)$，设$n=p^ab$，其中$p\nmid b$，我们有</p>
 <p>$$v_p(x^n-y^n) = v_p(x^{(p^{a-1})p} - y^{(p^{a-1})p}) = v_p(x^{p^{a-1}} - y^{p^{a-1}}) + 1$$</p>
