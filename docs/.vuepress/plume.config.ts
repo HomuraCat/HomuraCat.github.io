@@ -21,7 +21,7 @@ export default defineThemeConfig({
     '/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'My Vuepress Site',
+        name: 'HomuraCat\'s blog',
         description: '',
         // circle: true,
         // location: '',
@@ -34,7 +34,7 @@ export default defineThemeConfig({
     '/en/': {
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'My Vuepress Site',
+        name: 'HomuraCat\'s blog',
         description: '',
         // circle: true,
         // location: '',

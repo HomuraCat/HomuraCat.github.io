@@ -7,12 +7,12 @@ export default defineUserConfig({
   lang: 'zh-CN',
   locales: {
     '/': {
-      title: 'My Vuepress Site',
+      title: 'HomuraCat\'s blog',
       lang: 'zh-CN',
       description: '',
     },
     '/en/': {
-      title: 'My Vuepress Site',
+      title: 'HomuraCat\'s blog',
       lang: 'en-US',
       description: '',
     },
