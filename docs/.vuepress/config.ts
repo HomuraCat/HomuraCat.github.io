@@ -1,10 +1,12 @@
 import { defineUserConfig } from 'vuepress'
 import { viteBundler } from '@vuepress/bundler-vite'
 import { plumeTheme } from 'vuepress-theme-plume'
+import * as path from 'node:path'
 
 export default defineUserConfig({
   base: '/',
   lang: 'zh-CN',
+  //public: path.resolve(__dirname, 'public'),
   locales: {
     '/': {
       title: 'HomuraCat\'s blog',
