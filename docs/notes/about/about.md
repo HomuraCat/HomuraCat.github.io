@@ -36,11 +36,27 @@ permalink: /article/1uvnf7aj/
 + 可能之后会有心理学相关的读书笔记放到blog里。
 ---
 + 早年在[洛谷](https://www.luogu.com.cn/user/13137#article)，[MiNa](https://www.mina.moe/archives/author/quhengyi11),[知乎](https://www.zhihu.com/people/miao-miao-miao-51-49/posts)写过一些博客，主要是OI related的内容。
-+ 高三疫情网课搭着玩的[博客](https://portechaton.github.io/)，后来因为换电脑hexo的源文件找不到就放弃了[^3]。
++ 高三疫情网课搭着玩的[博客](https://portechaton.github.io/)，后来因为换电脑hexo的源文件找不到就<Highlight
+  content="放弃了"
+  comment="不喜欢hexo的主题也是一个原因。"
+  author="HomuraCat"
+  date="2025.1.17"
+/>。
+
 ---
 + 喜欢听歌，表面上在用Spotify听，实际上更喜欢用[b站收藏夹](https://space.bilibili.com/282588214/favlist?fid=318963514&ftype=create)，因为喜欢的翻唱作品上不了正式音乐平台。
 + 有考虑做本地音乐库，但现在的方案都很麻烦，等人做轮子。
-+ 喜欢的音乐风格主要是jpop，也喜欢古典[^1]。最喜欢的组合是Mili[^2]。
++ 喜欢的音乐风格主要是jpop，也喜欢<Highlight
+  content="古典"
+  comment="小时候过了钢琴六级，是钢琴琴童，养成了欣赏古典的习惯。但现在已经不会弹了。"
+  author="HomuraCat"
+  date="2025.1.17"
+/>。最喜欢的组合是<Highlight
+  content="Mili"
+  comment="最开始玩deemo的时候听YUBIKIRI-GENMAN爱上的，听momo唱歌很多年都没听腻。"
+  author="HomuraCat"
+  date="2025.1.17"
+/>。
 + 曾经是音游玩家，主修Deemo和Project Sekai，Phigros玩过一点但不喜欢它的电音风格。打了两三年发现自己没天赋就不玩了。
 ---
 + [雀魂玩家](https://amae-koromo.sapk.ch/player/15979612/12)，养老中，自我评估有天凤四到五段。<del>魂类游戏太肝了，说不定之后有空了会继续肝</del>
@@ -51,8 +67,4 @@ permalink: /article/1uvnf7aj/
 
 
 
-
-[^1]: 小时候过了钢琴六级，是钢琴琴童。但现在已经不会弹了。
-[^2]: 最开始玩deemo的时候听YUBIKIRI-GENMAN爱上的，听momo唱歌很多年都没听腻。
-[^3]: 不喜欢hexo的主题也是一个原因。
 
